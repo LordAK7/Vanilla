@@ -1,0 +1,7 @@
+gtts
+GoogleBard
+playsound
+portaudio
+SpeechRecognition
+pygobject
+pipwin
