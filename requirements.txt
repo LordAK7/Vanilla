@@ -5,3 +5,5 @@ portaudio
 SpeechRecognition
 pygobject
 pipwin
+bs4
+requests
